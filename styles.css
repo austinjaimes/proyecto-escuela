@@ -1,0 +1,137 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.img-logo {
+  width: 80px;
+  margin-left: 1000px;
+}
+
+.div-img {
+  width: 100%;
+}
+.img-card {
+  background-image: url("https://media.istockphoto.com/id/1371333667/es/foto/coches-en-venta-stock-lot-row.jpg?s=612x612&w=0&k=20&c=6Z4h23y20y461F7WkrGdY6xa5dUfLrCh22FA1G7B7dk=");
+  background-size: 100px;
+  -webkit-box-shadow: -5px 9px 31px 5px rgba(0,0,0,0.75);
+  -moz-box-shadow: -5px 9px 31px 5px rgba(0,0,0,0.75);
+  box-shadow: -5px 9px 31px 5px rgba(0,0,0,0.75);
+}
+
+body {
+  background-color: #F5F5F7;
+}
+
+.p-div {
+  width: 750px;
+  position: relative;
+  top: 5%;
+  left: -75%;
+  width: 600px;
+}
+ 
+p {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: #795757;
+}
+
+h1 {
+  color: #B17457;
+}
+h4 {
+  color: #4A4947;
+}
+
+.logo-bene {
+  position: relative;
+  top: -20px;
+  left: -80%;
+  width: 300px;
+}
+.logo {
+  position: relative;
+  top: -25px;
+}
+.btn {
+  background-color: #536493;
+  border-radius: 20px;
+  color: #B7B7B7;
+  width: 150px;
+  position: relative;
+  top: 6%;
+  left: -75%;
+}
+.btn:hover {
+  background-color: #536493;
+}
+
+.div-info {
+  
+}
+.info-div {
+  margin-top: -750px;
+  position: relative;
+  right: -50%;
+  width: 670px;
+}
+
+.info-img {
+  width: 500px;
+  border-radius: 20px;
+  -webkit-box-shadow: -10px 12px 15px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -10px 12px 15px 0px rgba(0,0,0,0.75);
+box-shadow: -10px 12px 15px 0px rgba(0,0,0,0.75);
+  position: relative;
+  top: -400px;
+  left: 100px;
+}
+
+.logo-target {
+  width: 50px;
+  margin-right: 20px;
+}
+.title-target-info {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.title-target-info {
+  margin-top: 10px;
+  color: #A0937D;
+}
+.targets-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.targets-info-div {
+  margin-left: 100px;
+}
+.subtitle-target-info {
+  width: 80%;
+  text-align: justify;
+}
+
+.pie-div {
+  background-color: #55AD9B;
+  height: 200px;
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.title-pie {
+  color: #F1F8E8;
+  padding-top: 40px;
+  margin-bottom: 30px;
+}
+.grid-pie {
+  
+}
+.logo-red {
+  width: 50px;
+  margin-right: 40px;
+}
